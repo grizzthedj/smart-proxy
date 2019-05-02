@@ -1,0 +1,9 @@
+---
+# Can be true or false
+:enabled: true
+
+:phpipam:
+  :url: 'http://phpipam.example.com'
+  :user: 'phpipam_user'
+  :password: 'phpipam_password'
+
