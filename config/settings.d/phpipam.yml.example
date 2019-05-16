@@ -1,5 +1,5 @@
 ---
-# Can be true or false
+# Can be true or false. true if smart_proxy_phpipam plugin is enabled, false if not
 :enabled: true
 
 :phpipam:
